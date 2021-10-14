@@ -22,7 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikg09&show_icons=true&theme=dark&locale=en&layout=compact" alt="karthikg09" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikg09&show_icons=true&theme=dark&locale=en" alt="karthikg09" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikg09&theme=dark" alt="karthikg09" /></p>
 
